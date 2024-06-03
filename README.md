@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi, I'm Zeph</h1>  
 <h3 align="center">I'm a fourth-year Computer Engineering student at Queen's University</h3>  
 <!--
