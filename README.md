@@ -1,6 +1,24 @@
 
-<h1 align="center">Hi, I'm Zeph</h1>  
-<h3 align="center">I'm a fourth-year Computer Engineering student at Queen's University</h3>  
+<h1 align="center">Hi, I'm Zeph 👋</h1>  
+<h3 align="center">A fourth-year Computer Engineering student at Queen's University</h3>  
+
+<p align="center">
+  Passionate about problem-solving, software development, and learning new technologies  
+</p>
+
+---
+
+### 👨‍💻 About Me  
+- 🎓 Completing my Computer Engineering degree at Queen's University (Graduating May 2025)  
+- 💡 Interested in software engineering, embedded systems, and AI/ML  
+- 🛠️ Experienced in **C, C++, Python, and Java**  
+- 🔍 Exploring opportunities in software development and systems engineering  
+- 📚 Always eager to learn new languages, tools, and frameworks
+
+
+### 📫 Let's Connect!  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/zeph-van-iterson/)  
+- 📧 [Email](mailto:zephvaniterson@gmail.com)  
 <!--
 **ZephVanIterson/ZephVanIterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
