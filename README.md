@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Zeph 👋</h1>  
-<h3 align="center">A fourth-year Computer Engineering student at Queen's University</h3>  
+<h3 align="center">A Computer Engineer with a Bachelor's Degree from Queen's University</h3>  
 
 <p align="center">
   Passionate about problem-solving, software development, and learning new technologies  
@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Completing my Computer Engineering degree at Queen's University (Graduating May 2025)  
+- 🎓 Completed my Computer Engineering degree at Queen's University (Graduated May 2025)  
 - 💡 Interested in software engineering, embedded systems, and AI/ML  
 - 🛠️ Experienced in **C, C++, Python, and Java**  
 - 🔍 Exploring opportunities in software development and systems engineering  
