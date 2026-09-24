@@ -1,35 +1,26 @@
+<h1 align="center">Hi, I'm Zeph 👋</h1>
 
-<h1 align="center">Hi, I'm Zeph 👋</h1>  
-<h3 align="center">A Computer Engineer with a Bachelor's Degree from Queen's University</h3>  
+<h3 align="center">
+  Software Developer at Cisco · Computer Engineering Graduate from Queen's University
+</h3>
 
 <p align="center">
-  Passionate about problem-solving, software development, and learning new technologies  
+  Passionate about problem-solving, software development, embedded systems, and AI/ML
+</p>
+
+<p align="center">
+  <a href="https://zephvaniterson.github.io/">Personal Website</a>
+  ·
+  <a href="https://www.linkedin.com/in/zeph-van-iterson/">LinkedIn</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 Completed my Computer Engineering degree at Queen's University (Graduated May 2025)  
-- 💡 Interested in software engineering, embedded systems, and AI/ML  
-- 🛠️ Experienced in **C, C++, Python, and Java**  
-- 🔍 Exploring opportunities in software development and systems engineering  
+### 👨‍💻 About Me
+
+- 💼 Software Developer at Cisco
+- 🎓 Computer Engineering graduate from Queen's University
+- 💡 Interested in software engineering, embedded systems, and AI/ML
+- 🛠️ Experienced with **C, C++, Python, and Java**
+- 🌐 View my work on [my personal website](https://zephvaniterson.github.io/)
 - 📚 Always eager to learn new languages, tools, and frameworks
-
-
-### 📫 Let's Connect!  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/zeph-van-iterson/)  
-- 📧 [Email](mailto:zephvaniterson@gmail.com)  
-<!--
-**ZephVanIterson/ZephVanIterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
